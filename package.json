@@ -1,12 +1,12 @@
 {
   "dependencies": {
     "bare-server-node": "github:tomphttp/bare-server-node",
-    "node-static": "^0.7.11"
-  },
-  "devDependencies": {
+    "node-static": "^0.7.11",
     "expo-cli": "latest",
     "react-native-web": "latest",
-    "react-dom": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
     "@expo/webpack-config": "latest"
   }
 }
